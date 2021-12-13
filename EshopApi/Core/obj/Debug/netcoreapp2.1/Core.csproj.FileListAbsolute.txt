@@ -1,0 +1,13 @@
+D:\web\Vue\project\EshopApi\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+D:\web\Vue\project\EshopApi\Core\bin\Debug\netcoreapp2.1\Core.dll
+D:\web\Vue\project\EshopApi\Core\bin\Debug\netcoreapp2.1\Core.pdb
+D:\web\Vue\project\EshopApi\Core\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\web\Vue\project\EshopApi\Core\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.csproj.AssemblyReference.cache
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.csproj.CopyComplete
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.dll
+D:\web\Vue\project\EshopApi\Core\obj\Debug\netcoreapp2.1\Core.pdb

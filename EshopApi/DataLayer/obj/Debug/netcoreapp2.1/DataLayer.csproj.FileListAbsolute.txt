@@ -1,0 +1,10 @@
+D:\web\Vue\project\EshopApi\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+D:\web\Vue\project\EshopApi\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+D:\web\Vue\project\EshopApi\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.AssemblyReference.cache
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+D:\web\Vue\project\EshopApi\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
